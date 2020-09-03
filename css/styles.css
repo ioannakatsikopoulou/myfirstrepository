@@ -1,8 +1,47 @@
 h1 {
-    color: #1b4965;
-    font-style: oblique;
+    color: #343a40;
 }
 
 body {
-    background-color: #bee9e8;
+    background-color: #adb5bd;
+}
+
+.btn{ 
+    width: 100px; 
+    margin: 0 10px 0 auto; 
+    display: block;
+}
+
+.title{
+    margin: 0 0 0 10px;
+}
+
+.text-contactus{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.text-contactus2{
+    font-size: 17px;
+}
+
+.bigger-size{
+    font-size: 30px;
+    color: #212529;
+}
+
+.row{
+    margin: 0 10px 0 10px;
+}
+
+.beaches-image{
+    margin: 0 0 5px 0;
+}
+
+.city-images{
+    size: 100px;
+}
+
+.text-city{
+    margin: 80px auto 0 10px;
 }
